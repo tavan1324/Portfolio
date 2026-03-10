@@ -265,7 +265,11 @@ gantt
 *All Setup Assistant screens skipped — devices advance through setup automatically and arrive user-ready without manual interaction.*
 
 ### Configuration Profiles
-![Configuration Profiles List](PLACEHOLDER_PATH_CONFIG_PROFILES)
+![Configuration Profiles List 1](screenshots/jamf-pro/Configuration_Profiles_1.png)
+
+![Configuration Profiles List 2](screenshots/jamf-pro/Configuration_Profiles_2.png)
+
+![Configuration Profiles List 3](screenshots/jamf-pro/Configuration_Profiles_3.png)
 *104 managed configuration profiles organized by category: CIS Level 1, Jamf Protect, Jamf Tools, MS Office, Network, and Security.*
 
 ### SSO Plugin — Platform SSO
