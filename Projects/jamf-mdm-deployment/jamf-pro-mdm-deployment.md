@@ -253,7 +253,7 @@ gantt
 *All screenshots have been redacted to remove organization names, serial numbers, usernames, and internal URLs.*
 
 ### Jamf Pro Dashboard
-![Jamf Pro Dashboard](PLACEHOLDER_PATH_DASHBOARD)
+![Jamf Pro Dashboard](screenshots/jamf-pro/Jamf Pro Dashboard.png)
 *Fleet overview showing 859 managed devices, Smart Computer Group monitoring widgets, and patch management status across macOS, Chrome, Edge, and Firefox.*
 
 ### PreStage Enrollment — General
