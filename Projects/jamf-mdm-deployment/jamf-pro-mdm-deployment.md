@@ -257,11 +257,11 @@ gantt
 *Fleet overview showing 859 managed devices, Smart Computer Group monitoring widgets, and patch management status across macOS, Chrome, Edge, and Firefox.*
 
 ### PreStage Enrollment — General
-![PreStage Enrollment General](PLACEHOLDER_PATH_PRESTAGE_GENERAL)
+![PreStage Enrollment General](screenshots/jamf-pro/Prestage_Enrollment_1.png)
 *Whiteglove PreStage configuration showing ABM integration, enrollment requirements, and automatic Setup Assistant advancement for zero-touch provisioning.*
 
 ### PreStage Enrollment — Setup Assistant
-![PreStage Enrollment Setup Assistant](PLACEHOLDER_PATH_PRESTAGE_SETUP)
+![PreStage Enrollment Setup Assistant](screenshots/jamf-pro/Prestage_Enrollment_2.png)
 *All Setup Assistant screens skipped — devices advance through setup automatically and arrive user-ready without manual interaction.*
 
 ### Configuration Profiles
@@ -277,15 +277,15 @@ gantt
 *Multi-criteria Smart Group identifying encrypted devices with invalid or unknown FileVault recovery keys that are actively checking in — used for proactive compliance remediation.*
 
 ### Jamf Connect Login Window
-![Jamf Connect Login Window](PLACEHOLDER_PATH_JAMF_CONNECT)
+![Jamf Connect Login Window](screenshots/jamf-pro/Jamf_Connect_Login.png)
 *macOS login window replaced with Microsoft Entra ID cloud identity sign-in via Jamf Connect — "Powered by Jamf" visible at bottom right.*
 
 ### Self Service+ — Home
-![Self Service+ Home](PLACEHOLDER_PATH_SS_HOME)
+![Self Service+ Home](screenshots/jamf-pro/Self_Service.png)
 *Self Service+ home screen showing Identity Provider sign-in status, password sync, malware protection (Jamf Protect), and removable storage restrictions.*
 
 ### Self Service+ — App Catalog
-![Self Service+ Catalog](PLACEHOLDER_PATH_SS_CATALOG)
+![Self Service+ Catalog](screenshots/jamf-pro/Self_Service_App_Catalog.png)
 *Curated app catalog providing end users with on-demand access to approved applications including Microsoft 365 suite, Google Chrome, Slack, Zoom, Webex, and Grammarly.*
 
 ---
