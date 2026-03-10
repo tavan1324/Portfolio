@@ -273,7 +273,7 @@ gantt
 *104 managed configuration profiles organized by category: CIS Level 1, Jamf Protect, Jamf Tools, MS Office, Network, and Security.*
 
 ### SSO Plugin — Platform SSO
-![SSO Plugin Profile](PLACEHOLDER_PATH_SSO_PLUGIN)
+![SSO Plugin Profile](/screenshots/jamf-pro/Platform_SSO.png)
 *Platform SSO extension configuration enabling single sign-on across Microsoft 365 apps and Zscaler via the macOS login window.*
 
 ### Smart Group Criteria — FileVault Key Validation
