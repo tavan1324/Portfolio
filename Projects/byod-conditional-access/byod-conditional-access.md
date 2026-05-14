@@ -123,27 +123,27 @@ gantt
 *All screenshots have been redacted to remove organization names, support URLs, and user-specific details.*
 
 ### Conditional Access Policy List
-![Conditional Access Policy List](screenshots/byod/ConditionalAccessPolicyList.png)
+![Conditional Access Policy List](/screenshots/byod/ConditionalAccessPolicyList.png)
 *Five BYOD Conditional Access policies covering O365 desktop client blocking, Office web blocking, and app-specific PII access restrictions for Salesforce, Bullhorn One, and Able Onboarding.*
 
 ### Conditional Access Policy - O365 Desktop Client Block (Client Apps)
-![CA Desktop Block - Client Apps](screenshots/byod/O365DesktopClientBlockClientApps.png)
+![CA Desktop Block - Client Apps](/screenshots/byod/O365DesktopClientBlockClientApps.png)
 *O365 desktop client block policy targeting "Mobile apps and desktop clients" only (Browser excluded), with Grant set to Block access. Selectively blocks desktop app access while leaving browser enforcement to the separate Office Online policy.*
 
 ### Conditional Access Policy - O365 Desktop Client Block (Device Platforms)
-![CA Desktop Block - Device Platforms](screenshots/byod/O365DesktopClientBlockDevicePlatforms.png)
+![CA Desktop Block - Device Platforms](/screenshots/byod/O365DesktopClientBlockDevicePlatforms.png)
 *Same policy showing device platform conditions: Windows and macOS included, mobile platforms (Android, iOS) excluded. Personal phones running official mobile apps are not affected by this policy.*
 
 ### Conditional Access Policy - PII App Block (Entra ID)
-![CA Policy Detail](screenshots/byod/PIIAppBlockEntraID.png)
+![CA Policy Detail](/screenshots/byod/PIIAppBlockEntraID.png)
 *Conditional Access policy for Salesforce PII users showing session controls routing traffic through Conditional Access App Control to Microsoft Defender for Cloud Apps.*
 
 ### Defender for Cloud Apps - Access Policy
-![Defender Access Policy](screenshots/byod/DefenderforCloudAppsAccessPolicy.png)
+![Defender Access Policy](/screenshots/byod/DefenderforCloudAppsAccessPolicy.png)
 *Microsoft Defender for Cloud Apps access policy showing enforcement logic: if IP address tag does not equal Zscaler AND app equals Salesforce, action is Block with a custom message directing users to their company-provided device.*
 
 ### Block Message - End User Experience
-![Block Message](screenshots/byod/BlockMessageEndUserExperience.png)
+![Block Message](/screenshots/byod/BlockMessageEndUserExperience.png)
 *Custom block message displayed to users attempting to access a restricted application from an unmanaged device, enforced by Microsoft Defender for Cloud Apps.*
 
 ---
